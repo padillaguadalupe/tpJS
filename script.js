@@ -1,6 +1,3 @@
-script.js
-
-
 //#region 
 var num1= 1;
 let numA= 2;
@@ -25,22 +22,4 @@ suma= num1+numA;
 resta= num1+numB;
 multiplicacion= num1*numC;
 division= num1/numD;
-//#endregion
-
-//#region 
-console.log(suma);
-console.log(resta);
-console.log(multiplicacion);
-console.log(division);
-
-//#endregion
-
-//#region 
-var inicio= 0;
-var fin= [10];
-
-for(inicio of fin){
-    console.log(inicio++)
-}
-
 //#endregion
