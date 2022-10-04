@@ -23,3 +23,11 @@ resta= num1+numB;
 multiplicacion= num1*numC;
 division= num1/numD;
 //#endregion
+
+//#region 
+console.log(suma);
+console.log(resta);
+console.log(multiplicacion);
+console.log(division);
+
+//#endregion
