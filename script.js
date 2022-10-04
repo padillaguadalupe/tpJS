@@ -31,3 +31,13 @@ console.log(multiplicacion);
 console.log(division);
 
 //#endregion
+
+//#region 
+var inicio= 0;
+var fin= [10];
+
+for(inicio of fin){
+    console.log(inicio++)
+}
+
+//#endregion
